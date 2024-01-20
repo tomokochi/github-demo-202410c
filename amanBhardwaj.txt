@@ -1,1 +1,1 @@
-fun fact : You are a rookie !!
+fun fact : You are a rookie !!!
